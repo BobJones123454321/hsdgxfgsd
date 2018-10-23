@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg" group-title="English",& Flix
 http://z5ams.akamaized.net/andflix/tracks-v1a1/index.m3u8
 #EXTINF:0, tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="Hindi",& Pictures
